@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "maxim_bv",
+  "mongoUri": "mongodb://localhost:27017",
+  "db": "blog"
+}
